@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ayushsaini076
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning reactjs
+- 👀 I’m a full stack developer with experience in MERN stack. 
+- 🌱 I’m currently looking for intern in frontend development,backend development or full stack development.
 
 
 <!---
